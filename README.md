@@ -1,2 +1,2 @@
 # asa-by
-Arch scripts!
+Random Linux scripts!
