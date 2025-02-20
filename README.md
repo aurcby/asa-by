@@ -1,2 +1,2 @@
-# asa-by
+# lrs-aurcby
 Random Linux scripts!
